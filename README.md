@@ -19,6 +19,10 @@ Contains several agents with different behavior modes in the Multi-Agent RL envi
 
 Contains some API calculating metrics for agents’ cost.
 
+## dataset folder
+
+Contains roadnet files for simulated world construction.
+
 ## frontend folder
 
 Contains some fronted tools for traffic visualization.
