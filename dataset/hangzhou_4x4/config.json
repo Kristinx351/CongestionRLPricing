@@ -1,0 +1,13 @@
+{
+	"interval": 1.0,
+	"seed": 0,
+	"dir": "dataset/hangzhou_4x4/",
+	"roadnetFile": "roadnet_4X4.json",
+	"flowFile": "hangzhou_flow.json",
+	"routeFile": "optional_routes.json",
+	"rlTrafficLight": true,
+	"laneChange": false,
+	"saveReplay": true,
+	"roadnetLogFile": "replay_roadnet.json",
+	"replayLogFile": "replay.txt"
+}
